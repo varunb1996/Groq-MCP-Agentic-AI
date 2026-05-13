@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+requests
+python-dotenv
+chromadb
+sentence-transformers
+langgraph
+langchain
+networkx
+pypdf
+groq
+mlflow
+mcp
